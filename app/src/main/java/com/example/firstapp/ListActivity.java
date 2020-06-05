@@ -76,7 +76,7 @@ public class QueryListActivity extends ListActivity implements Runnable, Adapter
 
     private void initListView() {
         listItems = new ArrayList<HashMap<String, String>>();
-        for (int i = 0; i < 10; i++) {
+        for (int i = 1; i < 10; i++) {
             HashMap<String, String> map = new HashMap<String, String>();
             map.put("ItemTitle", "Rate： " + i); // 标题
             map.put("ItemURL", "detail" + i); // 链接
