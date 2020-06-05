@@ -4,6 +4,6 @@
 
     <string name="hello">The temperature converter</string>
     <string name="hint_input">Celsius tempreture(℃)</string>
-    <string name="btn_Transform">℃ -> ℉</string>
+    <string name="btn_Transform">℃->℉</string>
     <string name="hint_result">Fahrenheit degree(℉)</string>
 </resources>
